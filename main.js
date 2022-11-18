@@ -16,7 +16,9 @@ function operation(x, y, op) {
         let div = x / y;
         console.log(div);
     }
+    
 }
+//const
 
 console.log(operation(1, 2, '+'))
 console.log(operation(1, '2', '-'))
